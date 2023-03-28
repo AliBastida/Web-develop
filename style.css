@@ -1,12 +1,15 @@
-body{
+.titulo{
     background-color: #FEF9E7;
     color: 5F0336;
+    font-size: 21px;
+    font-optical-sizing: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-header{
-    color:5F0336;
-}
-
-p{
-    color:5F0336;
+body, .text{
+    background-color: #FEF9E7;
+    color: 5F0336;
+    font-optical-sizing: auto;
+    font-size: 19px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
